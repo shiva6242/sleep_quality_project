@@ -1,5 +1,8 @@
 # 😴 Sleep Quality Prediction
 
+## 🚀 Live Demo
+https://sleepqualityproject.streamlit.app/
+
 A Machine Learning project that predicts sleep quality based on lifestyle and screen time data.
 
 ## 🧠 Problem Statement
