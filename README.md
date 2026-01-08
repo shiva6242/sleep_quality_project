@@ -16,6 +16,8 @@ Poor sleep quality impacts health and productivity. This project predicts sleep 
 
 ## 🧪 Model
 - Supervised Machine Learning model
+- Linear Regression
+- Random Forest
 - Saved as `sleep_model.pkl`
 
 ## 🚀 Web Application
