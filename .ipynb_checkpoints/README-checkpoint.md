@@ -12,13 +12,12 @@ Poor sleep quality impacts health and productivity. This project predicts sleep 
 - Physical activity
 
 ## 🧪 Model
-- Trained using supervised Machine Learning
-- Model saved as `sleep_model.pkl`
+- Supervised Machine Learning model
+- Saved as `sleep_model.pkl`
 
 ## 🚀 Web Application
-The project includes a Streamlit web app for real-time prediction.
+Built using Streamlit for real-time prediction.
 
-### Run locally
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
